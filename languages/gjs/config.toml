@@ -1,0 +1,3 @@
+name = "GJS"
+grammar = "gjs"
+path_suffixes = ["gjs"]

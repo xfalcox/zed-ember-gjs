@@ -1,0 +1,11 @@
+id = "gjs"
+name = "GJS"
+version = "0.0.1"
+schema_version = 1
+authors = ["Falco <i@falco.dev>"]
+description = "Syntax Highlighting for Ember GJS files"
+repository = "https://github.com/xfalcox/zed-ember-gjs"
+
+[grammars.gjs]
+repository = "https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript"
+commit = "7e8ea8cf39fc360cb97bd253442cd48e4f7a9ce3"
